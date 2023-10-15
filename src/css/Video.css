@@ -1,7 +1,0 @@
-.active-div {
-  @apply pointer-events-auto opacity-100;
-}
-
-.inactive-div {
-  @apply pointer-events-none opacity-50;
-}
